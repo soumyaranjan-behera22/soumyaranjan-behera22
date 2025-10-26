@@ -104,22 +104,29 @@
 ## 📫 Connect with Me
 
 <p align="center">
+  <!-- GitHub with glow animation -->
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge&animation=fade" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge&animation=glitch" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_ID" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%230E1111.svg?logo=leetcode&logoColor=FFF&style=for-the-badge&animation=fade" alt="LeetCode"/>
-  </a>
+  <!-- LinkedIn with moving gradient -->
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge&animation=fade" alt="LinkedIn"/>
   </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_ID" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%232EA44F.svg?logo=hackerrank&logoColor=white&style=for-the-badge&animation=fade" alt="HackerRank"/>
+  <!-- LeetCode typing animation -->
+  <a href="https://leetcode.com/YOUR_LEETCODE_ID" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=500&color=FFA116&center=true&lines=LeetCode" alt="LeetCode"/>
   </a>
+  <!-- HackerRank animated badge -->
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_ID" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-%232EA44F.svg?logo=hackerrank&logoColor=white&style=for-the-badge&animation=glitch" alt="HackerRank"/>
+  </a>
+  <!-- Twitter glowing -->
   <a href="https://twitter.com/YOUR_TWITTER_ID" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge&animation=fade" alt="Twitter"/>
   </a>
+  <!-- Email typing effect -->
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge&animation=fade" alt="Email"/>
+    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&pause=500&color=D14836&center=true&lines=Email" alt="Email"/>
   </a>
 </p>
+
