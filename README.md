@@ -1,6 +1,6 @@
 <!-- HERO -->
 <h1 align="center">
-  Hi 👋, I'm Soumyaranjan (Soumya / Omega)
+  Hi 👋, I'm Soumya
 </h1>
 <h3 align="center">Frontend Developer → Learning Bootstrap → Aspiring Full-Stack (Java)</h3>
 
@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/soumyaranjan-behera22">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="github stats" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/soumyaranjan-behera22">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="top langs" />
   </a>
 </p>
@@ -23,7 +23,7 @@
 
 ---
 
-## 🔭 Skills I'm Working On (animated icons)
+## 🔭 Skills I'm Working On
 <p align="center">
   <img height="50" src="https://skillicons.dev/icons?i=c,cpp,java,js" />
   <img height="50" src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
@@ -37,7 +37,7 @@
 
 ---
 
-## 🔧 Tools & Technologies (cards)
+## 🔧 Tools & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
@@ -54,24 +54,24 @@
 
 ---
 
-## 🧩 Projects (Web Dev)
-> I have completed 2 web development projects. Replace links with your projects.
+## 🧩 Projects
+> I have completed 2 web development projects.
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME/project-1">
     <img src="https://img.shields.io/badge/Project-1-00A8E8?logo=github&style=for-the-badge" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME/project-2">
     <img src="https://img.shields.io/badge/Project-2-FF6B6B?logo=github&style=for-the-badge" />
   </a>
-</p>
+</p> -->
 
 **Project 1** — React + CSS responsive UI  
 **Project 2** — HTML/CSS/JS + Node + Mongo small backend
 
 ---
 
-## ✨ Fun Animated Showcase
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&width=700&lines=Designing+pixel+perfect+UI;Learning+back-end+essentials;Practicing+DSA+everyday" />
 </p>
@@ -105,9 +105,9 @@
 ## 📌 Quick Contact Table
 | Platform | Link |
 |---|---|
-| GitHub | `https://github.com/YOUR_GITHUB_USERNAME` |
-| LinkedIn | `https://www.linkedin.com/in/YOUR_LINKEDIN_ID` |
-| LeetCode | `https://leetcode.com/YOUR_LEETCODE_ID` |
-| HackerRank | `https://www.hackerrank.com/YOUR_HACKERRANK_ID` |
-| Twitter / X | `https://twitter.com/YOUR_TWITTER_ID` |
-| Email | `mailto:your-email@example.com` |
+| GitHub | `https://github.com/soumyaranjan-behera22` |
+| LinkedIn | `https://www.linkedin.com/in/soumyaranjan-behera007` |
+| LeetCode | `https://leetcode.com/u/soumyaranjanbehera099/` |
+| HackerRank | `https://www.hackerrank.com/soumya007` |
+| Twitter / X | `https://twitter.com/Soumya_x007` |
+| Email | `mailto:soumya.rbehera007@gmail.com` |
