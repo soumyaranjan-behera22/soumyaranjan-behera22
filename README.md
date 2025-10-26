@@ -5,7 +5,7 @@
 <h3 align="center">Frontend Developer → Learning Spring Boot → Aspiring Full-Stack (Java)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFDA&size=28&center=true&width=720&lines=Frontend+Developer+|+Spring Boot+|+HTML+CSS+JS;Learning+Bootstrap+%26+Full+Stack+Java;Building+clean+UI+%2B+practical+projects" alt="typing-svg"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFDA&size=28&center=true&width=720&lines=Frontend+Developer+|+React+|+HTML+CSS+JS;Learning+Bootstrap+%26+Full+Stack+Java;Building+clean+UI+%2B+practical+projects" alt="typing-svg"/>
 </p>
 
 <!-- <p align="center">
