@@ -101,32 +101,34 @@
 </p>
 
 ---
-## 📫 Connect with Me
+
+## 📫 Let's Connect
 
 <p align="center">
-  <!-- GitHub with glow animation -->
+  <!-- GitHub bouncing -->
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge&animation=glitch" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&animation=pop" alt="GitHub"/>
   </a>
-  <!-- LinkedIn with moving gradient -->
+  <!-- LinkedIn pulse -->
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge&animation=fade" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&animation=pulse" alt="LinkedIn"/>
   </a>
-  <!-- LeetCode typing animation -->
+  <!-- LeetCode moving gradient -->
   <a href="https://leetcode.com/YOUR_LEETCODE_ID" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=500&color=FFA116&center=true&lines=LeetCode" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFAA00&animation=pop" alt="LeetCode"/>
   </a>
-  <!-- HackerRank animated badge -->
+  <!-- HackerRank spinning -->
   <a href="https://www.hackerrank.com/YOUR_HACKERRANK_ID" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%232EA44F.svg?logo=hackerrank&logoColor=white&style=for-the-badge&animation=glitch" alt="HackerRank"/>
+    <img src="https://img.shields.io/badge/HackerRank-%232EA44F?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EA44F&animation=pop" alt="HackerRank"/>
   </a>
-  <!-- Twitter glowing -->
+  <!-- Twitter glow -->
   <a href="https://twitter.com/YOUR_TWITTER_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge&animation=fade" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&animation=pulse" alt="Twitter"/>
   </a>
   <!-- Email typing effect -->
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&pause=500&color=D14836&center=true&lines=Email" alt="Email"/>
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=D14836&center=true&width=180&lines=Say+Hello!" alt="Email"/>
   </a>
 </p>
+
 
