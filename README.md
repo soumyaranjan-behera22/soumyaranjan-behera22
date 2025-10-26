@@ -101,34 +101,6 @@
 </p>
 
 ---
-
-## 📫 Let's Connect
-
-<p align="center">
-  <!-- GitHub bouncing -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&animation=pop" alt="GitHub"/>
-  </a>
-  <!-- LinkedIn pulse -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&animation=pulse" alt="LinkedIn"/>
-  </a>
-  <!-- LeetCode moving gradient -->
-  <a href="https://leetcode.com/YOUR_LEETCODE_ID" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFAA00&animation=pop" alt="LeetCode"/>
-  </a>
-  <!-- HackerRank spinning -->
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_ID" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%232EA44F?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EA44F&animation=pop" alt="HackerRank"/>
-  </a>
-  <!-- Twitter glow -->
-  <a href="https://twitter.com/YOUR_TWITTER_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&animation=pulse" alt="Twitter"/>
-  </a>
-  <!-- Email typing effect -->
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=D14836&center=true&width=180&lines=Say+Hello!" alt="Email"/>
-  </a>
-</p>
+## 📌 Quick Contact Table | Platform | Link | |---|---| | GitHub | https://github.com/YOUR_GITHUB_USERNAME | | LinkedIn | https://www.linkedin.com/in/YOUR_LINKEDIN_ID | | LeetCode | https://leetcode.com/YOUR_LEETCODE_ID | | HackerRank | https://www.hackerrank.com/YOUR_HACKERRANK_ID | | Twitter / X | https://twitter.com/YOUR_TWITTER_ID | | Email | mailto:your-email@example.com |
 
 
