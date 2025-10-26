@@ -101,13 +101,25 @@
 </p>
 
 ---
+## 📫 Connect with Me
 
-## 📌 Quick Contact Table
-| Platform | Link |
-|---|---|
-| GitHub | `https://github.com/soumyaranjan-behera22` |
-| LinkedIn | `https://www.linkedin.com/in/soumyaranjan-behera007` |
-| LeetCode | `https://leetcode.com/u/soumyaranjanbehera099/` |
-| HackerRank | `https://www.hackerrank.com/soumya007` |
-| Twitter / X | `https://twitter.com/Soumya_x007` |
-| Email | `mailto:soumya.rbehera007@gmail.com` |
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge&animation=fade" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_ID" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%230E1111.svg?logo=leetcode&logoColor=FFF&style=for-the-badge&animation=fade" alt="LeetCode"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge&animation=fade" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_ID" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-%232EA44F.svg?logo=hackerrank&logoColor=white&style=for-the-badge&animation=fade" alt="HackerRank"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge&animation=fade" alt="Twitter"/>
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge&animation=fade" alt="Email"/>
+  </a>
+</p>
