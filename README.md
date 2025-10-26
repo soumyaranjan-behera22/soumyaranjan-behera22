@@ -9,10 +9,10 @@
 </p>
 
 <!-- <p align="center">
-  <a href="https://github.com/soumyaranjan-behera22">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="github stats" />
   </a>
-  <a href="https://github.com/soumyaranjan-behera22">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="top langs" />
   </a>
 </p> -->
@@ -66,12 +66,10 @@
   </a>
 </p> -->
 
-**Project 1** — React + CSS responsive UI  
-**Project 2** — HTML/CSS/JS + Node + Mongo small backend
 
 ---
 
-
+## ✨ Fun Animated Showcase
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&width=700&lines=Designing+pixel+perfect+UI;Learning+back-end+essentials;Practicing+DSA+everyday" />
 </p>
@@ -101,6 +99,13 @@
 </p>
 
 ---
-## 📌 Quick Contact Table | Platform | Link | |---|---| | GitHub | https://github.com/YOUR_GITHUB_USERNAME | | LinkedIn | https://www.linkedin.com/in/YOUR_LINKEDIN_ID | | LeetCode | https://leetcode.com/YOUR_LEETCODE_ID | | HackerRank | https://www.hackerrank.com/YOUR_HACKERRANK_ID | | Twitter / X | https://twitter.com/YOUR_TWITTER_ID | | Email | mailto:your-email@example.com |
 
-
+## 📌 Quick Contact Table
+| Platform | Link |
+|---|---|
+| GitHub | `https://github.com/soumyaranjan-behera22` |
+| LinkedIn | `https://www.linkedin.com/in/soumyaranjanbehera007` |
+| LeetCode | `https://leetcode.com/soumyaranjanbehera099` |
+| HackerRank | `https://www.hackerrank.com/soumya007` |
+| Twitter / X | `https://twitter.com/Soumya_x007` |
+| Email | `soumya.rbehera007@gmail.com` |
