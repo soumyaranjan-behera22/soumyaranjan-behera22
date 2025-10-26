@@ -8,14 +8,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFDA&size=28&center=true&width=720&lines=Frontend+Developer+|+React+|+HTML+CSS+JS;Learning+Bootstrap+%26+Full+Stack+Java;Building+clean+UI+%2B+practical+projects" alt="typing-svg"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/soumyaranjan-behera22">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="github stats" />
   </a>
   <a href="https://github.com/soumyaranjan-behera22">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="top langs" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" />
