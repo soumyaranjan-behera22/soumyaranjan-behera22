@@ -2,110 +2,96 @@
 <h1 align="center">
   Hi 👋, I'm Soumya
 </h1>
-<h3 align="center">Frontend Developer → Learning Spring Boot → Aspiring Full-Stack (Java)</h3>
+<h3 align="center">Aspiring Data Scientist | Python • ML • Data Analysis</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFDA&size=28&center=true&width=720&lines=Frontend+Developer+|+React+|+HTML+CSS+JS;Learning+Bootstrap+%26+Full+Stack+Java;Building+clean+UI+%2B+practical+projects" alt="typing-svg"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFDA&size=28&center=true&width=720&lines=Data+Science+Enthusiast;Python+%7C+Pandas+%7C+Machine+Learning;Building+Real+World+Data+Projects" />
 </p>
-
-<!-- <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="github stats" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="top langs" />
-  </a>
-</p> -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
+
+---
+
+## 🧠 About Me
+- 🎓 3rd Year B.Tech Student  
+- 📊 Learning Data Science & Machine Learning  
+- 🧩 Interested in solving real-world problems using data  
+- ⚡ Currently working on Data Analysis & ML Projects  
 
 ---
 
 ## 🔭 Skills I'm Working On
 <p align="center">
-  <img height="50" src="https://skillicons.dev/icons?i=c,cpp,java,js" />
-  <img height="50" src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-  <img height="50" src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  <img height="50" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp" />
+  <!-- Core Data Science -->
+  <img height="50" src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=AAAAAA&center=true&width=720&lines=2+Web+Projects+Completed%3A+2;Currently%3A+Learning+Bootstrap+%26+Full+Stack+Topics" />
+  <!-- Data Science Libraries -->
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ---
 
-## 🔧 Tools & Technologies
+## 💻 Additional Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge" />
+  <img height="50" src="https://skillicons.dev/icons?i=java,html,css,js" />
 </p>
 
 ---
 
 ## 🧩 Projects
-> I have completed 2 web development projects.
-
-<!-- <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/project-1">
-    <img src="https://img.shields.io/badge/Project-1-00A8E8?logo=github&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/project-2">
-    <img src="https://img.shields.io/badge/Project-2-FF6B6B?logo=github&style=for-the-badge" />
-  </a>
-</p> -->
-
+### 📈 Sales Prediction & Analysis
+- Data cleaning and exploratory data analysis  
+- Built regression model for prediction  
+- Visualized insights using Matplotlib & Seaborn  
 
 ---
 
-## ✨ Fun Animated Showcase
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&width=700&lines=Designing+pixel+perfect+UI;Learning+back-end+essentials;Practicing+DSA+everyday" />
-</p>
+### 🏏 IPL Score Prediction
+- Machine learning model to predict match scores  
+- Applied feature engineering & model evaluation  
+
+---
+
+### 👥 Customer Segmentation
+- Used K-Means clustering to segment customers  
+- Derived insights for business decision-making  
+
+---
+
+## ⚡ Currently Learning
+- Advanced Machine Learning  
+- Feature Engineering  
+- Real-world dataset handling  
 
 ---
 
 ## 📫 Contact & Socials
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/soumyaranjan-behera22">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_ID">
+  <a href="https://leetcode.com/soumyaranjanbehera099">
     <img src="https://img.shields.io/badge/LeetCode-%230E1111.svg?logo=leetcode&logoColor=FFF&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://www.linkedin.com/in/soumyaranjanbehera007">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_ID">
-    <img src="https://img.shields.io/badge/HackerRank-%232EA44F.svg?logo=hackerrank&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_ID">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 📌 Quick Contact Table
+## 📌 Quick Links
 | Platform | Link |
 |---|---|
-| GitHub | `https://github.com/soumyaranjan-behera22` |
-| LinkedIn | `https://www.linkedin.com/in/soumyaranjanbehera007` |
-| LeetCode | `https://leetcode.com/soumyaranjanbehera099` |
-| HackerRank | `https://www.hackerrank.com/soumya007` |
-| Twitter / X | `https://twitter.com/Soumya_x007` |
-| Email | `soumya.rbehera007@gmail.com` |
+| GitHub | https://github.com/soumyaranjan-behera22 |
+| LinkedIn | https://www.linkedin.com/in/soumyaranjanbehera007 |
+| LeetCode | https://leetcode.com/soumyaranjanbehera09 |
+| Email | soumya.rbehera007@gmail.com |
